@@ -1,9 +1,29 @@
-## Hi there ! :wave:
-I'm Arman Ali Khan :innocent:
-🎓 pursuing B.Tech in Computer Science from **[ITER, S.O.A.](https://www.soa.ac.in/iter)** 
-Web development Enthusiast :dizzy:
-Member of **[CWC](https://github.com/CodingWizardITER)** :sparkles:
+### Hi there ! :wave:
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/gist/abhirampai/ce94b0b8345cd969d3cf997578487cdd/raw/b2dc51d4421db9d4a5a17be817e07dc8ad1e3375/hello.gif" width="30%">
+  <br><br>
+  <samp>
+    I'm Arman Ali Khan :innocent:
+    <br>
+    <br>
+    I'm  currently pursuing 🎓B.Tech in Computer Science from **[ITER, S.O.A.](https://www.soa.ac.in/iter)** 🏫🎓 !
+    <br>
+    :dizzy: Web development Enthusiast 
+    <br><br>
+  </samp>
+</p>
+
+<hr style="height:2px;border-width:0;color:gray;background-color:gray">
+
+- 🔭 I’m currently working on COC Website
+- 🌱 I’m currently learning MERN
+- :sparkles:Member of **[CWC](https://github.com/CodingWizardITER)** 
+- 💞️ I’m looking to collaborate on github
+- :sunglasses: exploring everyday
+- 📫 reach me: alikhanarman786@gmail.com
+
+<hr style="height:2px;border-width:0;color:gray;background-color:gray">
 
 ## Teach Stacks that I am fimiliar with :computer:
 
@@ -21,9 +41,15 @@ Member of **[CWC](https://github.com/CodingWizardITER)** :sparkles:
 ![Eclipse](https://img.shields.io/badge/Eclipse-FE7A16.svg?style=for-the-badge&logo=Eclipse&logoColor=white)
 ![VSCode](https://img.shields.io/badge/visual%20studio%20code-blue.svg?style=for-the-badge&logo=visual%20studio%20code)
 
+<hr style="height:2px;border-width:0;color:gray;background-color:gray">
+
+
 ![Arman's GitHub stats](https://github-readme-stats.vercel.app/api?username=Arman-ali-khan-786&show_icons=true&theme=onedark)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Arman-ali-khan-786&layout=compact)
+
+
+<hr style="height:2px;border-width:0;color:gray;background-color:gray">
 
 ### Reach out to me :point_down:
 <a href="https://www.linkedin.com/in/arman-ali-khan-b44751169/"><img src="https://blog-assets.hootsuite.com/wp-content/uploads/2018/09/In-2C-54px-R.png" width="48px" height="48px"></a>
