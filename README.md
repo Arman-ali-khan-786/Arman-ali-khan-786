@@ -7,7 +7,7 @@
     I'm Arman Ali Khan :innocent:
     <br>
     <br>
-    I'm  currently pursuing 🎓B.Tech in Computer Science from **[ITER, S.O.A.](https://www.soa.ac.in/iter)** 🏫🎓 !
+     I'm  currently pursuing 🎓B.Tech in Computer Science from ITER,SOA University!
     <br>
     :dizzy: Web development Enthusiast 
     <br><br>
