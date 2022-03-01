@@ -20,7 +20,7 @@
 - 🌱 I’m currently learning MERN
 - :sparkles:Member of **[CWC](https://github.com/CodingWizardITER)** 
 - 💞️ I’m looking to collaborate on github
-- :sunglasses: exploring everyday
+- :sunglasses: exploring new techs everyday
 - 📫 reach me: alikhanarman786@gmail.com
 
 <hr style="height:2px;border-width:0;color:gray;background-color:gray">
