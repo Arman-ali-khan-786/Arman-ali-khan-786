@@ -1,10 +1,12 @@
 ## Hi there ! :wave:
-- I'm Arman Ali Khan :innocent:
--🎓 pursuing B.Tech in Computer Science from **[ITER, S.O.A.](https://www.soa.ac.in/iter)** 
-- Web development Enthusiast :dizzy:
-- Member of **[CWC](https://github.com/CodingWizardITER)** :sparkles:
+I'm Arman Ali Khan :innocent:
+🎓 pursuing B.Tech in Computer Science from **[ITER, S.O.A.](https://www.soa.ac.in/iter)** 
+Web development Enthusiast :dizzy:
+Member of **[CWC](https://github.com/CodingWizardITER)** :sparkles:
+
 
 ## Teach Stacks that I am fimiliar with :computer:
+
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
@@ -20,7 +22,8 @@
 ![VSCode](https://img.shields.io/badge/visual%20studio%20code-blue.svg?style=for-the-badge&logo=visual%20studio%20code)
 
 ![Arman's GitHub stats](https://github-readme-stats.vercel.app/api?username=Arman-ali-khan-786&show_icons=true&theme=onedark)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Arman-ali-khan-786&layout=compact)]
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Arman-ali-khan-786&layout=compact)
 
 ### Reach out to me :point_down:
 <a href="https://www.linkedin.com/in/arman-ali-khan-b44751169/"><img src="https://blog-assets.hootsuite.com/wp-content/uploads/2018/09/In-2C-54px-R.png" width="48px" height="48px"></a>
