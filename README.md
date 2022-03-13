@@ -16,7 +16,6 @@
 
 <hr style="height:2px;border-width:0;color:gray;background-color:gray">
 
-- 🔭 I’m currently working on COC Website
 - 🌱 I’m currently learning MERN
 - :sparkles:Member of **[CWC](https://github.com/CodingWizardITER)** 
 - 💞️ I’m looking to collaborate on github
