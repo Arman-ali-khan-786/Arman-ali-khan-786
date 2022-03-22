@@ -43,7 +43,11 @@
 <hr style="height:2px;border-width:0;color:gray;background-color:gray">
 
 
-![Arman's GitHub stats](https://github-readme-stats.vercel.app/api?username=Arman-ali-khan-786&show_icons=true&theme=onedark)
+<div align="center">
+  <p>![Arman's GitHub stats](https://github-readme-stats.vercel.app/api?username=Arman-ali-khan-786&show_icons=true&theme=onedark)</p>
+</div>
+
+<hr style="height:2px;border-width:0;color:gray;background-color:gray">
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Arman-ali-khan-786&layout=compact)
 
