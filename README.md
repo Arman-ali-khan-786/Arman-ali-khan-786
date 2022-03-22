@@ -43,7 +43,9 @@
 <hr style="height:2px;border-width:0;color:gray;background-color:gray">
 
 <div align="center">
-     ![Arman's GitHub stats] (https://github-readme-stats.vercel.app/api?username=Arman-ali-khan-786&show_icons=true&theme=onedark)
+  
+  ![Arman's GitHub stats](https://github-readme-stats.vercel.app/api?username=Arman-ali-khan-786&show_icons=true&theme=onedark)
+  
 </div>
 
 <hr style="height:2px;border-width:0;color:gray;background-color:gray">
