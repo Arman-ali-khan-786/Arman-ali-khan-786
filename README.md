@@ -22,10 +22,14 @@
 - :sunglasses: exploring new techs everyday
 - 📫 reach me: alikhanarman786@gmail.com
 
+
 <hr style="height:2px;border-width:0;color:gray;background-color:gray">
+
 
 ## Teach Stacks that I am fimiliar with :computer:
 
+<div align="center">
+  
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
@@ -39,6 +43,8 @@
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 ![Eclipse](https://img.shields.io/badge/Eclipse-FE7A16.svg?style=for-the-badge&logo=Eclipse&logoColor=white)
 ![VSCode](https://img.shields.io/badge/visual%20studio%20code-blue.svg?style=for-the-badge&logo=visual%20studio%20code)
+  
+</div>
 
 <hr style="height:2px;border-width:0;color:gray;background-color:gray">
 
@@ -50,12 +56,19 @@
 
 <hr style="height:2px;border-width:0;color:gray;background-color:gray">
 
-   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Arman-ali-khan-786&layout=compact)
+
+<div align="center">
+  
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Arman-ali-khan-786&layout=compact)
+  
+</div>
 
 
 <hr style="height:2px;border-width:0;color:gray;background-color:gray">
 
+
 ### Reach out to me :point_down:
+
 <a href="https://www.linkedin.com/in/arman-ali-khan-b44751169/"><img src="https://blog-assets.hootsuite.com/wp-content/uploads/2018/09/In-2C-54px-R.png" width="48px" height="48px"></a>
 <a href="https://github.com/Arman-ali-khan-786"><img src="https://cdn.icon-icons.com/icons2/2351/PNG/512/logo_github_icon_143196.png" width="48px" height="48px"></a>
 <a href="https://twitter.com/ARMAN__786"><img src="https://i.ibb.co/kmgQVyW/twitter.png" width="48px" height="48px"></a>
