@@ -17,7 +17,7 @@
 <hr style="height:2px;border-width:0;color:gray;background-color:gray">
 
 - 🌱 I’m currently learning MERN
-- :sparkles:Member of **[CWC](https://github.com/CodingWizardITER)** 
+- :sparkles:Member of **[CDH](https://github.com/CodingWizardITER)** 
 - 💞️ I’m looking to collaborate on github
 - :sunglasses: exploring new techs everyday
 - 📫 reach me: alikhanarman786@gmail.com
