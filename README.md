@@ -48,25 +48,17 @@
 
 <hr style="height:2px;border-width:0;color:gray;background-color:gray">
 
-<div align="center">
+<div align="center" style="display:flex;">
   
   ![Arman's GitHub stats](https://github-readme-stats.vercel.app/api?username=Arman-ali-khan-786&show_icons=true&theme=onedark)
-  
-</div>
-
-<hr style="height:2px;border-width:0;color:gray;background-color:gray">
-
-
-<div align="center">
-  
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Arman-ali-khan-786&layout=compact)
   
 </div>
 
-
 <hr style="height:2px;border-width:0;color:gray;background-color:gray">
 
-
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Arman-ali-khan-786)
+<br>
 ### Reach out to me :point_down:
 
 <a href="https://www.linkedin.com/in/arman-ali-khan-b44751169/"><img src="https://blog-assets.hootsuite.com/wp-content/uploads/2018/09/In-2C-54px-R.png" width="48px" height="48px"></a>
