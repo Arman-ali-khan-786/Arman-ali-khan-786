@@ -48,7 +48,7 @@
 
 <hr style="height:2px;border-width:0;color:gray;background-color:gray">
 
-<div align="center" style="display:flex;">
+<div align="center" style="display:flex; flex-direction:row;">
   
   ![Arman's GitHub stats](https://github-readme-stats.vercel.app/api?username=Arman-ali-khan-786&show_icons=true&theme=onedark)
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Arman-ali-khan-786&layout=compact)
