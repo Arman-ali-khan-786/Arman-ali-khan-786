@@ -48,15 +48,11 @@
 
 <hr style="height:2px;border-width:0;color:gray;background-color:gray">
 
-<p align="center">
+<div align="center">
   ![Arman's GitHub stats](https://github-readme-stats.vercel.app/api?username=Arman-ali-khan-786&show_icons=true&theme=onedark) 
-</p>
-<p align="center" > 
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Arman-ali-khan-786&layout=compact)  
-</p>
-<p align="center">
   ![GitHub Streak](https://streak-stats.demolab.com?user=Arman-ali-khan-786&theme=radical&border_radius=50&date_format=n%2Fj%5B%2FY%5D)](https://git.io/streak-stats)
-</p>
+</div>
 
 <hr style="height:2px;border-width:0;color:gray;background-color:gray">
 
