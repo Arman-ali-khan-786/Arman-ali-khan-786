@@ -66,7 +66,7 @@
 
 <hr style="height:2px;border-width:0;color:gray;background-color:gray">
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Arman-ali-khan-786)
+![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=Arman-ali-khan-786&theme=github-compact)](https://github.com/Arman-ali-khan-786/github-readme-activity-graph)
 
 <hr style="height:2px;border-width:0;color:gray;background-color:gray">
 <br>
