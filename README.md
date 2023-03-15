@@ -66,8 +66,7 @@
 
 <hr style="height:2px;border-width:0;color:gray;background-color:gray">
 
-[![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=Arman-ali-khan-786&theme=merko)](https://github.com/Arman-ali-khan-786/github-readme-activity-graph)
-
+![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=Arman-ali-khan-786&theme=merko)
 <hr style="height:2px;border-width:0;color:gray;background-color:gray">
 <br>
 
