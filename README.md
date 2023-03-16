@@ -17,7 +17,7 @@
 <hr style="height:2px;border-width:0;color:gray;background-color:gray">
 
 - 🌱 I’m currently learning php
-- :sparkles:Member of CDH,Iter 
+- :sparkles:Core Member of CDH,Iter 
 - 💞️ I’m looking to collaborate on github
 - :sunglasses: exploring new techs everyday
 - 📫 reach me: alikhanarman786@gmail.com
