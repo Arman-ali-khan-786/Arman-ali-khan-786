@@ -26,7 +26,7 @@
 <hr style="height:2px;border-width:0;color:gray;background-color:gray">
 
 
-## Teach Stacks that I am fimiliar with :computer:
+## Tech Stacks that I am familiar with :computer:
 
 <div align="center">
   
