@@ -7,19 +7,16 @@
     I'm Arman Ali Khan :innocent:
     <br>
     <br>
-     I'm  currently pursuing 🎓B.Tech in Computer Science from ITER,SOA University!
-    <br>
-    :dizzy: Web development & DevOps Enthusiast 
+    :dizzy: Cloud & DevOps Enthusiast 
     <br><br>
   </samp>
 </p>
 
 <hr style="height:2px;border-width:0;color:gray;background-color:gray">
 
-- 🌱 I’m currently learning Linux and AWS
-- :sparkles:Core Member of CDH,Iter 
+- 🌱 I’m currently building Projects that matters 
 - 💞️ I’m looking to collaborate on github
-- :sunglasses: exploring new techs everyday
+- :sunglasses: exploring new techs every day
 - 📫 reach me: alikhanarman786@gmail.com
 
 
