@@ -44,7 +44,7 @@
 </div>
 
 <hr style="height:2px;border-width:0;color:gray;background-color:gray">
-
+<!-- 
 <h2 align="center">🏆 𝑴𝒚 𝑮𝒊𝒕𝒉𝒖𝒃 𝑻𝒓𝒐𝒑𝒉𝒊𝒆𝒔</h2>
 <p align="center">
 <img src="https://github-profile-trophy.vercel.app/?username=Arman-ali-khan-786&theme=radical&&title=Stars,Followers,Commit,PR,Repo,Issues&no-frame=true" width="780px"  />
@@ -66,7 +66,7 @@
 ![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=Arman-ali-khan-786&theme=merko)
 <hr style="height:2px;border-width:0;color:gray;background-color:gray">
 <br>
-
+--> 
 ### Reach out to me :point_down:
 <br>
 <a href="https://www.linkedin.com/in/arman-ali-khan-b44751169/"><img src="https://blog-assets.hootsuite.com/wp-content/uploads/2018/09/In-2C-54px-R.png" width="48px" height="48px"></a>
